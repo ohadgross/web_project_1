@@ -235,6 +235,11 @@
   margin-bottom:0px;
  
 }
+
+
+
+
+
 .feynman__link {
   position: absolute;
   top: 50%;
@@ -242,13 +247,13 @@
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
-  justify-content: center;
+ /* justify-content: center;*/
   z-index: 100;
   color: #2F80ED;
   text-decoration: none;
 }
 .feynman__image {
-  display: flex;
+ /* display: flex;*/
   position: absolute;
   background-size: cover;
   height: 637px;
