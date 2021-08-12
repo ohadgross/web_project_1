@@ -19,6 +19,7 @@
  /* parameters for the header section */
   background-color: #F2F2F2;
   z-index: 0;
+  overflow:hidden;
 }
 .logo_place_header {
   position: absolute;
@@ -45,6 +46,8 @@
   top: 64px;
   background-color: #2F80ED;
   z-index: -2;
+  transform:rotate(-15deg);
+  
 }
 .header__main-illustration {
   position: absolute;
@@ -334,4 +337,72 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+}
+
+/* projet2 classes */
+
+@keyframes square-pic-rotation
+{
+   from {
+    transform: rotate(-15deg);
+  }
+  to {
+    transform: rotate(345deg);
+  }
+}
+.header__rotation {
+  animation-name: square-pic-rotation;
+  animation-duration:20s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  transition: all 200ms linear;
+}
+.techniques {
+  background-color:white ;
+ 
+}
+.techniques_section-title{
+line-height: 1.15;
+width:60%;
+}
+.techniques_section-subtitle{
+width:60%;
+}
+.cards__image{
+  height:160px;
+  width:160px;
+  margin-right:40px;
+  margin-left:40px;
+  padding-bottom:43px;
+}
+.cards__item{
+  list-style: none;
+  width:240px;
+}
+.cards {
+      display: flex;
+      flex-direction: row;
+      padding: 0;
+      flex-wrap: wrap;
+      align-content: flex-start;
+      justify-content: space-between;
+      width: 920px;
+      margin: 60px auto 100px auto;*/
+      /*order: 3;*/
+      list-style: none;
+      row-gap: 60px;
+}
+.cards__title{
+  line-height: 1.15;
+  font-size:24px;
+  font-weight: bold;
+  text-align:center;
+
+}
+.cards__description{
+  line-height: 23px;
+  font-size:18px;
+  font-weight: normal;
+  text-align:center;
+
 }
