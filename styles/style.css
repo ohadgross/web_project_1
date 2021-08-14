@@ -362,13 +362,13 @@
   background-color:white;
 
 }
-.techniques_section-title{
+.techniques__section-title{
 line-height: 1.15;
 width:60%;
 margin-top:100px;
 }
 
-.techniques_section-subtitle {
+.techniques__section-subtitle {
 width:60%;
 }
 .cards {
@@ -438,3 +438,41 @@ margin-bottom:60px;
   margin-left:0px; 
  }
 
+.video__iframes{
+ 
+ display: flex;
+
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom:0px;
+  padding-top:50px;
+  list-style: none;
+  justify-content: center;
+  
+
+  
+}
+.video__iframes_box {
+  width:515px;
+  height:316px;
+}
+
+.video__iframes_child:first-child {
+background-color: blue;
+margin-right:20px;
+}
+
+ .video__iframes_child:last-child {
+
+  margin-right:0px;
+   }
+
+.video__section-title
+{
+  width:60%;
+  line-height: 1.15;
+}
+.video__section-subtitle
+{
+
+}
