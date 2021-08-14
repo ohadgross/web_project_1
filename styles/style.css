@@ -535,6 +535,7 @@ margin:0px;
   z-index: 1;
   overflow: hidden;
   margin: 0;
+  padding-bottom:90px;
  
 
   
@@ -595,6 +596,9 @@ margin:0px;
   animation-timing-function: linear;
   transition: all 200ms linear;
 }
+.resources {
+  margin-top:100px;
+}
 .resources__logo-zone {
   display:flex;
   flex-direction: row;
@@ -614,3 +618,7 @@ height:38px;
 
 }
 
+.resources__section-title{
+width:60%;
+padding-bottom:20px;
+}
