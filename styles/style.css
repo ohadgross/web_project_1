@@ -473,16 +473,15 @@ margin-right:20px;
 {
   width:60%;
   line-height: 1.15;
+  padding-bottom:20px;
+  margin-top:100px;
 }
 .video__section-subtitle
 {
 margin-bottom:50px;
 }
-.video__section-title
-{
-  padding-bottom:20px;
-  margin-top:60px;
-}
+
+
 .oakley{
 
   padding-top:100px;
@@ -490,4 +489,22 @@ margin-bottom:50px;
 }
 .oakley__two-columns{
   background-color: #F2F2F2;
+}
+.khan{
+  padding-top:105px;
+  background-color: #F2F2F2;
+  
+}
+.khan__container{
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+}
+.khan__book-pic{
+  width:620px;
+  height:608px;
+  
+}
+.khan__author{
+  margin-top:0px;
 }
