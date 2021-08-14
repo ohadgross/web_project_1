@@ -437,7 +437,10 @@ margin-bottom:60px;
 .cards__item:first-child {
   margin-left:0px; 
  }
-
+.video{
+padding-bottom:60px;
+  background: linear-gradient(white 80%,#F2F2F2 20%);
+}
 .video__iframes{
  
  display: flex;
@@ -445,10 +448,9 @@ margin-bottom:60px;
   margin-left: auto;
   margin-right:auto;
   margin-bottom:0px;
-  padding-top:50px;
   list-style: none;
   justify-content: center;
-  
+
 
   
 }
@@ -458,7 +460,7 @@ margin-bottom:60px;
 }
 
 .video__iframes_child:first-child {
-background-color: blue;
+
 margin-right:20px;
 }
 
@@ -474,5 +476,18 @@ margin-right:20px;
 }
 .video__section-subtitle
 {
+margin-bottom:50px;
+}
+.video__section-title
+{
+  padding-bottom:20px;
+  margin-top:60px;
+}
+.oakley{
 
+  padding-top:100px;
+  background-color: #F2F2F2;
+}
+.oakley__two-columns{
+  background-color: #F2F2F2;
 }
