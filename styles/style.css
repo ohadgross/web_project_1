@@ -308,13 +308,19 @@
 .techniques {
   background-color:white;
 }
-.section-title__techniques{
+.section-title_techniques{
   line-height: 1.15;
   width:60%;
   margin-top:100px;
 }
-.section-subtitle__techniques {
+.section-subtitle_techniques {
   width:60%;
+}
+.cards_techniques-container{
+  margin-left:auto;
+  margin-right:auto;
+  background-color: blue;
+ 
 }
 .cards {
   display: flex;
@@ -325,7 +331,8 @@
   margin-right:auto;
   margin-top:0px;
   margin-bottom:60px;
-  justify-content:center;
+  width:60%;
+ 
 }
 .cards__image{
   height:160px;
@@ -370,7 +377,7 @@
   padding-bottom:60px;
   background: linear-gradient(white 80%,#F2F2F2 20%);
 }
-.video__iframes{
+.video_iframes{
   display: flex;
   margin-left: auto;
   margin-right:auto;
@@ -378,23 +385,23 @@
   list-style: none;
   justify-content: center;
 }
-.video__iframes_box {
+.video_iframes_box {
   width:515px;
   height:316px;
 }
-.video__iframes_child:first-child {
+.video_iframes_child:first-child {
   margin-right:20px;
 }
-.video__iframes_child:last-child {
+.video_iframes_child:last-child {
   margin-right:0px;
 }
-.section-title__video {
+.section-title_video {
   width:60%;
   line-height: 1.15;
   padding-bottom:20px;
   margin-top:100px;
 }
-.section-subtitle__video {
+.section-subtitle_video {
   margin-bottom:50px;
 }
 .oakley{
@@ -552,7 +559,7 @@
   width:270px;
   height:38px;
 }
-.section-title__resources{
+.section-title_resources{
   width:60%;
   padding-bottom:20px;
 }
