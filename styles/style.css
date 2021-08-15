@@ -384,10 +384,10 @@
   width:515px;
   height:316px;
 }
-.video_iframes_child:first-child {
+.video_iframe:first-child {
   margin-right:20px;
 }
-.video_iframes_child:last-child {
+.video_iframe:last-child {
   margin-right:0px;
 }
 .section-title_video {
