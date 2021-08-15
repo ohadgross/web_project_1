@@ -316,12 +316,7 @@
 .section-subtitle_techniques {
   width:60%;
 }
-.cards_techniques-container{
-  margin-left:auto;
-  margin-right:auto;
-  background-color: blue;
- 
-}
+
 .cards {
   display: flex;
   flex-direction: row;
@@ -377,7 +372,7 @@
   padding-bottom:60px;
   background: linear-gradient(white 80%,#F2F2F2 20%);
 }
-.video_iframes{
+.video__iframes{
   display: flex;
   margin-left: auto;
   margin-right:auto;
@@ -408,7 +403,7 @@
   padding-top:100px;
   background-color: #F2F2F2;
 }
-.two-columns__oakley{
+.two-columns_oakley{
   background-color: #F2F2F2;
 }
 .khan{
