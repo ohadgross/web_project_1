@@ -39,7 +39,8 @@
   right: -124px;
   width: 660px;
   height: 636px;
-  background-image: url("../images/kaufman-triangle.svg");
+  background-image: url("../../images/kaufman-triangle.svg");
+ 
 }
 .table__cell {
   width: 250px;
