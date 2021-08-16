@@ -2,21 +2,29 @@
 @import url("../vendor/normalize.css");
 
 @import url("../blocks/header/header.css");
+@import url("../blocks/header/__title/header__title.css");
+@import url("../blocks/logo/__place/logo_place_header.css");
+@import url("../blocks/header/__square-pic/header__square-pic.css");
+@import url("../blocks/header/__main-illustration/header__main-illustration.css");
+@import url("../blocks/header/__subtitle/header__subtitle.css");
+@import url("../blocks/rotation/rotation.css");
+@import url("../blocks/header/header/header.css");
 
 
-/* including elements with key-value modifiers */
 @import url("../blocks/description/description.css");
 @import url("../blocks/techniques/techniques.css");
-
-
-@import url("../blocks/digits/digits.css");
-@import url("../blocks/feynman/feynman.css");
-@import url("../blocks/footer/footer.css");
-/* projet2 classes */
-
 @import url("../blocks/video/video.css");
 @import url("../blocks/oakley/oakley.css");
+@import url("../blocks/feynman/feynman.css");
+@import url("../blocks/digits/digits.css");
 @import url("../blocks/khan/khan.css");
 @import url("../blocks/kaufman/kaufman.css");
 @import url("../blocks/resources/resources.css");
+@import url("../blocks/footer/footer.css");
+
+
+
+
+
+
 

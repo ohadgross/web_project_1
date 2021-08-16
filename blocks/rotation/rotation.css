@@ -1,0 +1,16 @@
+@keyframes square-pic-rotation {
+  from {
+      transform: rotate(-15deg);
+ }
+  to {
+      transform: rotate(345deg);
+ }
+}
+
+.header__rotation {
+  animation-name: square-pic-rotation;
+  animation-duration:20s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  transition: all 200ms linear;
+}
