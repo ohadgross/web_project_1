@@ -1,0 +1,14 @@
+
+.table {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  justify-content: space-between;
+  width: 1100px;
+  margin: 60px auto 100px auto;
+  order: 3;
+  list-style: none;
+  row-gap: 60px;
+}
