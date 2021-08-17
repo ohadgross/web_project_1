@@ -1,0 +1,13 @@
+
+.two-columns__span-accent {
+  font-weight: bold;
+}
+.two-columns {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  background-color: white;
+  margin: 0 auto;
+  min-width: 784px;
+  max-width: 80%;
+}
