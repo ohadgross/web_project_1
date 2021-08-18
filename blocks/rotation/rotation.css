@@ -7,7 +7,7 @@
  }
 }
 
-.header__rotation {
+.rotation {
   animation-name: square-pic-rotation;
   animation-duration:20s;
   animation-iteration-count: infinite;

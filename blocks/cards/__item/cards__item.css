@@ -14,3 +14,6 @@
 .cards__item:first-child {
   margin-left:0px;
 }
+.cards__item:nth-child(3n+3) {
+  margin-right: 0;
+}
