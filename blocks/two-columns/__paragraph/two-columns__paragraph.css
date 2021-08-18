@@ -3,4 +3,15 @@
   font-size: 24px;
   font-weight: normal;
   min-width: 784px;
+margin-top:0px;
+margin-right:0px;
+margin-bottom:30px;
+margin-left:0px;
 }
+.two-columns__paragraph:first-child {
+  margin-top: 0;
+}
+.two-columns__paragraph:last-child {
+  margin-bottom: 0;
+}
+

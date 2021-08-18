@@ -33,6 +33,7 @@
 @import url("../blocks/video/__title/video__title.css");
 @import url("../blocks/video/__subtitle/video__subtitle.css");
 @import url("../blocks/video/__iframes/video__iframes.css");
+@import url("../blocks/video/__iframe/video__iframe.css");
 @import url("../blocks/video/__iframe/video__iframe_size.css");
 
 @import url("../blocks/oakley/oakley.css");
@@ -79,13 +80,13 @@
 @import url("../blocks/section-title/_theme/section-title_theme_dark.css");
 @import url("../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css");
 @import url("../blocks/table/table.css");
-@import url("../blocks/table/_theme_dark/table_theme_dark.css");
+@import url("../blocks/table/_theme/table_theme_dark.css");
 @import url("../blocks/table/__cell/table__cell.css");
-@import url("../blocks/table/__cell_theme_dark/table__cell_theme_dark.css");
+@import url("../blocks/table/__cell/_theme/table__cell_theme_dark.css");
 @import url("../blocks/table/__heading/table__heading.css");
-@import url("../blocks/table/__heading_theme_dark/table__heading_theme_dark.css");
+@import url("../blocks/table/__heading/_theme/table__heading_theme_dark.css");
 @import url("../blocks/table/__text/table__text.css");
-@import url("../blocks/table/__text_theme_dark/table__text_theme_dark.css");
+@import url("../blocks/table/__text/_theme/table__text_theme_dark.css");
 
 
 
