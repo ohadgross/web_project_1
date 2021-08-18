@@ -8,12 +8,6 @@
   margin-right:100px;
   margin-left:0px;
 }
-.cards__item:last-child {
-  margin-right:0px;
-}
-.cards__item:first-child {
-  margin-left:0px;
-}
 .cards__item:nth-child(3n+3) {
   margin-right: 0;
 }

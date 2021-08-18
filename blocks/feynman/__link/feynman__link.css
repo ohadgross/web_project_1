@@ -12,5 +12,7 @@
 }
 
 .feynman__link:hover {
-  color:red;
+color:red;
+opacity: 0.5;
+transition: opacity 0.3s ease;
 }

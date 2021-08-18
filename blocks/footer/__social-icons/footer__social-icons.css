@@ -3,8 +3,3 @@
   height: 16px;
   margin-right: 10px;
 }
-.footer__social-icons:hover{
-  transform:scale(2);
-  transition: opacity 0.3s ease;
-
-}
