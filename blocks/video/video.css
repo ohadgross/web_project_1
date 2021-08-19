@@ -1,6 +1,7 @@
 .video {
-  padding-bottom:160px;
-  background: linear-gradient(white 65%,#F2F2F2 35%);
+  padding-bottom:100px;
+  background: linear-gradient(white 70%,#F2F2F2 30%);
+  margin-bottom:-17px;
 }
 
 
